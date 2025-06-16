@@ -1,1 +1,1 @@
-# Client-Eligibility-Management-API
+This Flask-based API manages client registrations and access tracking. It validates client eligibility based on age and number of visits, supports adding, updating, and removing clients, and ensures data persistence in a JSON file. The API uses simple rules to decide client eligibility and returns clear, informative responses.
