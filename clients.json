@@ -1,0 +1,68 @@
+[
+    {
+        "nume": "Ion Popescu",
+        "varsta": 30,
+        "accesari": 25,
+        "email": "ion.popescu@example.com"
+    },
+    {
+        "nume": "Maria Ionescu",
+        "varsta": 45,
+        "accesari": 40,
+        "email": "maria.ionescu@example.com"
+    },
+    {
+        "nume": "Alexandru Georgescu",
+        "varsta": 22,
+        "accesari": 21,
+        "email": "alex.georgescu@example.com"
+    },
+    {
+        "nume": "Elena Marinescu",
+        "varsta": 35,
+        "accesari": 50,
+        "email": "elena.marinescu@example.com"
+    },
+    {
+        "nume": "Cristian Dumitrescu",
+        "varsta": 28,
+        "accesari": 23,
+        "email": "cristian.dumitrescu@example.com"
+    },
+    {
+        "nume": "Ana Popa",
+        "varsta": 40,
+        "accesari": 60,
+        "email": "ana.popa@example.com"
+    },
+    {
+        "nume": "Gabriel Stan",
+        "varsta": 33,
+        "accesari": 45,
+        "email": "gabriel.stan@example.com"
+    },
+    {
+        "nume": "Ioana Radu",
+        "varsta": 29,
+        "accesari": 35,
+        "email": "ioana.radu@example.com"
+    },
+    {
+        "nume": "Mihai Vasilescu",
+        "varsta": 38,
+        "accesari": 28,
+        "email": "mihai.vasilescu@example.com"
+    },
+    {
+        "nume": "Alina Stanescu",
+        "varsta": 26,
+        "accesari": 33,
+        "email": "alina.stanescu@example.com"
+    },
+    {
+        "email": "test.client@example.com",
+        "nume": "Test Client",
+        "varsta": 30,
+        "accesari": 30
+    }
+]
