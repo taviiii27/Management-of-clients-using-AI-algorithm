@@ -2,12 +2,11 @@ import os
 import openai
 from dotenv import load_dotenv
 
-load_dotenv()  # Încarcă variabilele din .env
-
+load_dotenv()  
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 if not openai.api_key:
-    raise ValueError("OPENAI_API_KEY nu este setat. Pune-l în fișierul .env")
+    raise ValueError("OPENAI_API_KEY not set. put it in .env")
 
 def responses(messages):
     try:
