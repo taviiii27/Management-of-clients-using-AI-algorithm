@@ -1,1 +1,3 @@
 This Flask-based API manages client registrations and access tracking on a certain page. It validates client eligibility based on age and number of visits, supports adding, updating, and removing clients, and ensures data persistence in a JSON file. The API uses simple rules to decide client eligibility and returns clear, informative responses.
+
+Additionally, the project includes a Dockerfile and a requirements.txt for easy environment setup and deployment. Using Docker, the API can be containerized and run consistently across different platforms, simplifying development and testing workflows.
